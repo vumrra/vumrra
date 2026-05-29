@@ -1,7 +1,6 @@
 안녕하세요, 서버 개발자 신희성입니다.
 
 - contact: vvwv309@gmail.com
-- resume: [vumrra.com](https://vumrra.com)
 
 ---
 
