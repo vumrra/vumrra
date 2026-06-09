@@ -1,4 +1,4 @@
-안녕하세요, 서버 개발자 신희성입니다.
+안녕하세요, Software Engineer 신희성입니다.
 
 - contact: vvwv309@gmail.com
 
